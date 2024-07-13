@@ -17,7 +17,7 @@
 
 <div>
 
-- 🎓 Master's Degree (First Class Honours) in Cyber Security @ <a href="https://www.bristol.ac.uk"> University of Bristol</a>
+- 🎓 Master's Degree (First Class Honours, Distinction) in Cyber Security @ <a href="https://www.bristol.ac.uk"> University of Bristol</a>
 
 - 🎓 Bachelor's Degree in Computer Science @ <a href="https://www.ku.edu.tr/en/">Faculty of Engineering, Koç University</a>
 
